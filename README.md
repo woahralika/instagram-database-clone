@@ -19,3 +19,8 @@ All tables, constraints, and relationships were structured for academic and prac
 - This database is **hypothetical** — the data is fabricated for educational use.
 - Not affiliated with Instagram in any way.
 
+
+## 🗺️ Entity-Relationship Diagram
+
+![ERD](ERD.png)
+
